@@ -23,4 +23,8 @@ docs/site/
 # environment.
 Manifest.toml
 #workspace
-*.code-workspace
+workspace.code-workspace
+
+#history
+
+.history
